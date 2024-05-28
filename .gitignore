@@ -7,7 +7,7 @@ classify_image_graph_def.pb
 *.JPEG
 *.png
 visualizations
-# *.png
+*.png
 *.pt
 !0_label_197.png
 !figs/teaser.png
