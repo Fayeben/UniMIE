@@ -5,7 +5,6 @@ classify_image_graph_def.pb
 *.zip
 *.jpeg
 *.JPEG
-*.png
 visualizations
 *.pt
 evaluations/precomputed
