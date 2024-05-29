@@ -18,7 +18,7 @@ pip install -e .
 
 ## Download Checkpoints and Data
 Download pretrained uncondition DDPMs on ImageNet-256 from (https://github.com/openai/guided-diffusion). 
-Download images from 
+Download images from (https://drive.google.com/file/d/1hmgAda19r0KVaG1Ha0cfIHBLGVftqlAS/view?usp=sharing)
 
 For the downloaded dataset folder, command
 ```
