@@ -26,7 +26,7 @@ python /cpfs01/user/feiben/UniMIE/scripts/imagenet_dataloader/save_random_images
 ```
 can be used to automatically generate NPZ files that meet the requirements. 
 
-### Deblurring Task
+### Lightening process
 A given set of degraded images can be used for testing, and custom degradation can also be used to test the blind image restoration performance of UniMIE.
 ```
 MODEL_FLAGS="--attention_resolutions 32,16,8 --class_cond False --diffusion_steps 1000 --image_size 256 --learn_sigma True --noise_schedule linear --num_channels 256 --num_head_channels 64 --num_res_blocks 2 --resblock_updown True --use_fp16 True --use_scale_shift_norm True"
